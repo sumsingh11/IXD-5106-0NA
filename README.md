@@ -10,18 +10,5 @@ For more information, visit the [Official Course Page](https://mediaarts.humber.
 > **Note:** Regularly test your prototypes with real users to identify usability issues early.
 
 ### Sample Code
-![Design for Interaction](https://uid.edu.in/wp-content/uploads/2024/07/Whats-the-Difference-Between-Interaction-Design-and-Visual-Design-UI.jpg)
-```css
-/* Example CSS for a button hover effect */
-.button {
-  background-color: #4CAF50;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  border: none;
-  cursor: pointer;
-}
-
-.button:hover {
-  background-color: #45a049;
-}
+Figma Tool - Score Card.
+![Design for Interaction](./SumitSingh_(N01722360)_M1_F24.png)
